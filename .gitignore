@@ -1,0 +1,29 @@
+# VS 编译产物
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.res
+*.ipch
+
+# 生成目录
+build/
+out/
+bin/
+obj/
